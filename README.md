@@ -23,7 +23,7 @@ CollegeAxis is a cutting-edge college management system designed to streamline a
 
 ---
 
-## **Team Members** 
+## **Team Members** <a id="team-members"></a>
 <table>
   <thead>
     <tr>
@@ -61,19 +61,19 @@ CollegeAxis is a cutting-edge college management system designed to streamline a
 
 ---
 
-## **Target Audience** 🎯
+## **Target Audience** 🎯 <a id="target-audience"></a>
 1. **College Administrators**: Streamline operations, manage staff and student data, and generate reports.  
 2. **Professors**: Track attendance, assign grades, manage courses, and schedule classes.  
 3. **Students**: Access academic records, schedules, assignments, and grades.  
 
 ---
 
-## **Tech Stack** 🛠️
+## **Tech Stack** 🛠️ <a id="tech-stack"></a>
 <table>
   <thead>
     <tr>
-      <th>📂 Category</th>
-      <th>🖥️ Technology</th>
+      <th>Category</th>
+      <th>Technology</th>
     </tr>
   </thead>
   <tbody>
@@ -87,7 +87,7 @@ CollegeAxis is a cutting-edge college management system designed to streamline a
     </tr>
     <tr>
       <td>Database</td>
-      <td>MySQL</td>
+      <td>phpMyAdmin</td>
     </tr>
     <tr>
       <td>Rendering Method</td>
@@ -106,37 +106,37 @@ CollegeAxis is a cutting-edge college management system designed to streamline a
 
 ---
 
-## **UI Design** 🎨
+## **UI Design** 🎨 <a id="ui-design"></a>
 **Canva Design**: [CollegeAxis UI Design](https://www.canva.com/design/DAGcjchGX0w/9iNz5qcqHhUsYvSCKEK9Pg/edit?utm_content=DAGcjchGX0w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 
 ---
 
 ## **Project Features** ✨
 
-### **User Section** 👥
+### **User Section** 👥 <a id="user-section"></a>
 - 🔐 Secure multi-role login (Admin, Professor, Student).  
 - 📊 Role-based access control for data and actions.  
 - 🛠️ CRUD operations for user-specific data (e.g., grades, schedules, assignments).  
 - 🔍 Search and filter functionality for records.  
 
-### **Admin Section** 🛡️
+### **Admin Section** 🛡️ <a id="admin-section"></a>
 - 👥 Manage user roles and permissions.  
 - ✅ Approve or reject user registrations.  
 - 📑 Generate reports for attendance, grades, and activities.  
 - 🔒 Multi-admin authentication and password recovery.  
 
-### **Professor Section** 🎓
+### **Professor Section** 🎓 <a id="professor-section"></a>
 - ✅ Manage student attendance and grades.  
 - 📅 Schedule classes and manage course details.  
 - 📢 Communicate directly with students via notices.  
 
-### **Student Section** 📘
+### **Student Section** 📘 <a id="student-section"></a>
 - 📖 View academic records, schedules, and notifications.  
 - 📝 Submit assignments and track progress.  
 
 ---
 
-## **API Endpoints** 🌐
+## **API Endpoints** 🌐 <a id="api-endpoints"></a>
 
 ### **Authentication** 🔒
 - **POST** `/api/auth/register` - Register users with roles (Admin, Professor, Student).  
@@ -164,7 +164,7 @@ CollegeAxis is a cutting-edge college management system designed to streamline a
 
 ---
 
-## **Milestones** 🏁
+## **Milestones** 🏁 <a id="milestones"></a>
 <table>
   <thead>
     <tr>
