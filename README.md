@@ -5,21 +5,21 @@ CollegeAxis is a cutting-edge college management system designed to streamline a
 ---
 
 ## **Table of Contents** 📚
-1.👩‍💻 [Team Members](#team-members) 
-2.🎯 [Target Audience](#target-audience) 
-3.🛠️ [Tech Stack](#tech-stack) 
-4.🎨 [UI Design](#ui-design) 
-5.✨ [Project Features](#project-features) 
-   - [User Section](#user-section) 👥
-   - [Admin Section](#admin-section) 🛡️
-   - [Professor Section](#professor-section) 🎓
-   - [Student Section](#student-section) 📘
-6. [API Endpoints](#api-endpoints) 🌐
-   - [Authentication](#authentication) 🔒
-   - [Admin APIs](#admin-apis) 🛠️
-   - [Professor APIs](#professor-apis) 📊
-   - [Student APIs](#student-apis) 📚
-7.🏁 [Milestones](#milestones) 
+1. 👩‍💻 [Team Members](#team-members)  
+2. 🎯 [Target Audience](#target-audience)  
+3. 🛠️ [Tech Stack](#tech-stack)  
+4. 🎨 [UI Design](#ui-design)  
+5. ✨ [Project Features](#project-features)  
+   - [User Section](#user-section) 👥  
+   - [Admin Section](#admin-section) 🛡️  
+   - [Professor Section](#professor-section) 🎓  
+   - [Student Section](#student-section) 📘  
+6. 🌐 [API Endpoints](#api-endpoints)  
+   - [Authentication](#authentication) 🔒  
+   - [Admin APIs](#admin-apis) 🛠️  
+   - [Professor APIs](#professor-apis) 📊  
+   - [Student APIs](#student-apis) 📚  
+7. 🏁 [Milestones](#milestones)  
 
 ---
 
@@ -39,7 +39,7 @@ CollegeAxis is a cutting-edge college management system designed to streamline a
       <td>20220104151</td>
       <td>Rownok Jahan Mowmita</td>
       <td>mowmita878@gmail.com</td>
-      <td>Rownokk</td>
+      <td>Rownok</td>
       <td>Lead Developer (Frontend + Backend)</td>
     </tr>
     <tr>
@@ -73,7 +73,7 @@ CollegeAxis is a cutting-edge college management system designed to streamline a
   <thead>
     <tr>
       <th>📂 Category</th>
-      <th>🔧 Technology</th>
+      <th>🖥️ Technology</th>
     </tr>
   </thead>
   <tbody>
@@ -122,7 +122,7 @@ CollegeAxis is a cutting-edge college management system designed to streamline a
 ### **Admin Section** 🛡️
 - 👥 Manage user roles and permissions.  
 - ✅ Approve or reject user registrations.  
-- 📁 Generate reports for attendance, grades, and activities.  
+- 📑 Generate reports for attendance, grades, and activities.  
 - 🔒 Multi-admin authentication and password recovery.  
 
 ### **Professor Section** 🎓
