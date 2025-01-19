@@ -127,7 +127,7 @@ The primary objective of CollegeAxis is to provide an integrated platform that:
 
 ---
 
-## **Project Features** ✨
+## **Project Features** ✨ <a id="project-features"></a>
 
 ### **User Section** 👥 <a id="user-section"></a>
 - 🔐 Secure multi-role login (Admin, Professor, Student).  
