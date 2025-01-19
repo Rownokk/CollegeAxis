@@ -23,7 +23,7 @@ CollegeAxis is a cutting-edge college management system designed to streamline a
 
 ---
 
-## **Team Members** <a id="team-members"></a>
+## **Team Members**👩🏻‍💻 <a id="team-members"></a>
 <table>
   <thead>
     <tr>
@@ -39,7 +39,7 @@ CollegeAxis is a cutting-edge college management system designed to streamline a
       <td>20220104151</td>
       <td>Rownok Jahan Mowmita</td>
       <td>mowmita878@gmail.com</td>
-      <td>Rownok</td>
+      <td>Rownokk</td>
       <td>Lead Developer (Frontend + Backend)</td>
     </tr>
     <tr>
