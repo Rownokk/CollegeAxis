@@ -1,6 +1,25 @@
-# **CollegeAxis**
+# **CollegeAxis 🎓**
 
-CollegeAxis is an advanced college management system designed to streamline academic and administrative processes. Built with PHP and Laravel, it provides a scalable and secure platform to enhance collaboration and efficiency for students, professors, and administrators. Features include attendance tracking, grade management, class scheduling, and more.  
+CollegeAxis is a cutting-edge college management system designed to streamline academic and administrative processes. Developed with PHP and Laravel, it provides a secure, scalable platform for students, professors, and administrators. It simplifies operations such as attendance tracking, grade management, class scheduling, and much more.
+
+---
+
+## **Table of Contents**
+1. [Team Members](#team-members)
+2. [Target Audience](#target-audience)
+3. [Tech Stack](#tech-stack)
+4. [UI Design](#ui-design)
+5. [Project Features](#project-features)
+   - [User Section](#user-section)
+   - [Admin Section](#admin-section)
+   - [Professor Section](#professor-section)
+   - [Student Section](#student-section)
+6. [API Endpoints](#api-endpoints)
+   - [Authentication](#authentication)
+   - [Admin APIs](#admin-apis)
+   - [Professor APIs](#professor-apis)
+   - [Student APIs](#student-apis)
+7. [Milestones](#milestones)
 
 ---
 
@@ -186,5 +205,6 @@ CollegeAxis is an advanced college management system designed to streamline acad
     </tr>
   </tbody>
 </table>
+
 
 
