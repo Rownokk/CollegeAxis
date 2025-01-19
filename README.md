@@ -5,11 +5,11 @@ CollegeAxis is a cutting-edge college management system designed to streamline a
 ---
 
 ## **Table of Contents** 📚
-1. [Team Members](#team-members) 👩‍💻👨‍💻
-2. [Target Audience](#target-audience) 🎯
-3. [Tech Stack](#tech-stack) 🛠️
-4. [UI Design](#ui-design) 🎨
-5. [Project Features](#project-features) ✨
+1.👩‍💻 [Team Members](#team-members) 
+2.🎯 [Target Audience](#target-audience) 
+3.🛠️ [Tech Stack](#tech-stack) 
+4.🎨 [UI Design](#ui-design) 
+5.✨ [Project Features](#project-features) 
    - [User Section](#user-section) 👥
    - [Admin Section](#admin-section) 🛡️
    - [Professor Section](#professor-section) 🎓
@@ -19,19 +19,19 @@ CollegeAxis is a cutting-edge college management system designed to streamline a
    - [Admin APIs](#admin-apis) 🛠️
    - [Professor APIs](#professor-apis) 📊
    - [Student APIs](#student-apis) 📚
-7. [Milestones](#milestones) 🏁
+7.🏁 [Milestones](#milestones) 
 
 ---
 
-## **Team Members** 🧑‍🤝‍🧑
+## **Team Members** 
 <table>
   <thead>
     <tr>
-      <th>🆔 ID</th>
-      <th>👤 Name</th>
-      <th>📧 Email</th>
-      <th>🐱 GitHub</th>
-      <th>🛠️ Role</th>
+      <th>ID</th>
+      <th>Name</th>
+      <th>Email</th>
+      <th>GitHub</th>
+      <th> Role</th>
     </tr>
   </thead>
   <tbody>
@@ -39,22 +39,22 @@ CollegeAxis is a cutting-edge college management system designed to streamline a
       <td>20220104151</td>
       <td>Rownok Jahan Mowmita</td>
       <td>mowmita878@gmail.com</td>
-      <td>Rownok</td>
-      <td>Lead Developer (Frontend + Backend) 👩‍💻</td>
+      <td>Rownokk</td>
+      <td>Lead Developer (Frontend + Backend)</td>
     </tr>
     <tr>
       <td>20220104143</td>
       <td>Umme Jamila</td>
       <td>jamila.cse.20220104143@aust.edu</td>
       <td>jamila143</td>
-      <td>Frontend + Backend 🛠️</td>
+      <td>Frontend + Backend</td>
     </tr>
     <tr>
       <td>20220104149</td>
       <td>Authoi Chowdhury</td>
-      <td>authoi.cse.20220104149@aust.edu</td>
-      <td>Authoi</td>
-      <td>Frontend Developer 🎨</td>
+      <td>authoichy016@gmail.com</td>
+      <td>AuthoiChy</td>
+      <td>Frontend Developer</td>
     </tr>
   </tbody>
 </table>
@@ -73,7 +73,7 @@ CollegeAxis is a cutting-edge college management system designed to streamline a
   <thead>
     <tr>
       <th>📂 Category</th>
-      <th>🖥️ Technology</th>
+      <th>🔧 Technology</th>
     </tr>
   </thead>
   <tbody>
@@ -122,7 +122,7 @@ CollegeAxis is a cutting-edge college management system designed to streamline a
 ### **Admin Section** 🛡️
 - 👥 Manage user roles and permissions.  
 - ✅ Approve or reject user registrations.  
-- 📑 Generate reports for attendance, grades, and activities.  
+- 📁 Generate reports for attendance, grades, and activities.  
 - 🔒 Multi-admin authentication and password recovery.  
 
 ### **Professor Section** 🎓
